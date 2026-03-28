@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="player_view"      type="id"/>
+    <item name="now_playing"      type="id"/>
+    <item name="loading_spinner"  type="id"/>
+    <item name="placeholder"      type="id"/>
+</resources>
